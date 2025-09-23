@@ -22,3 +22,16 @@ The approach used in this project was duplicating the SAP data, grouping and mer
 
 ![](PowerQuerySS.png)
 ---
+## Excel Aging Balance Report Design
+The report generated in Power Query was redesigned to improve usability and make it more visually appealing. Conditional formatting was used, slicers were added, and data cards were introduced to summarize the total number of invoices and the total outstanding payments. The final result is shown in the GIF file below:
+
+![](ABReport.gif)
+
+---
+## Proposed Use Cases
+This report may be used by the finance departament in order to:
+
+- Monitor overdue receivables and prioritize collection efforts
+- Analyze customer payment behavior and risk
+- Gain a unified overview by combining accounting and CRM data
+- Prepare actionable insights for meetings, reviews, and  support decision-making

@@ -13,11 +13,11 @@ The data was imported to the PowerQuery editor in the CSV format.
 ## Data Transformation with Power Query
 The approach used in this project was duplicating the SAP data, grouping and merging with SF data by the AccountID key. Step by step data transformation process goes as following:
 
-1. duplication of the SAP data as a separate Table
+1. duplication of the SAP invoice data as a separate Table
 2. removal of unnecessary columns from the Table
 3. Addition of the buckets based on the arrears column
 4. Grouping by the AccountID
-5. Joining the SF data and removing unnecessary columns
+5. Joining the SF  customer master data and removing unnecessary columns
 6. Adjustment of the headers and column order
 
 ![](PowerQuerySS.png)

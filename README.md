@@ -18,4 +18,4 @@ The approach used in this project was duplicating the SAP data, grouping and mer
 4. Grouping by the AccountID
 5. Joining the SF data and removing unnecessary columns
 6. Adjustment of the headers and column order
-![]([powerqueryss.jpg)
+![]([powerqueryss.png)

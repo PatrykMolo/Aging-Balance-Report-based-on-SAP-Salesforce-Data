@@ -23,7 +23,7 @@ The approach used in this project was duplicating the SAP data, grouping and mer
 ![](PowerQuerySS.png)
 ---
 ## Excel Aging Balance Report Design
-The report generated in Power Query was redesigned to improve usability and make it more visually appealing. Conditional formatting was used, slicers were added, and data cards were introduced to summarize the total number of invoices and the total outstanding payments in the filtered view. The final result is shown in the GIF file below:
+The report generated in Power Query was redesigned to improve usability and make it more visually appealing. Conditional formatting was used, slicers were added, and data cards were introduced to summarize the total number of invoices and the total outstanding payments in the filtered view. The final result is shown in the GIF below:
 
 ![](ABReport.gif)
 

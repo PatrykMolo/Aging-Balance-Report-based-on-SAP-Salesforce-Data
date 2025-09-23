@@ -11,7 +11,8 @@ The report was created using Power Query Editor and standard Excel tools such as
 
 The data was imported to the PowerQuery editor in the CSV format.
 ## Data Transformation with Power Query
-The approach used in this project was duplicating the SAP data, grouping and merging with SF data by the AccountID key. Step by step process goes as following 
+The approach used in this project was duplicating the SAP data, grouping and merging with SF data by the AccountID key. Step by step data transformation process goes as following:
+
 1. duplication of the SAP data as a separate Table
 2. removal of unnecessary columns from the Table
 3. Addition of the buckets based on the arrears column
@@ -19,4 +20,5 @@ The approach used in this project was duplicating the SAP data, grouping and mer
 5. Joining the SF data and removing unnecessary columns
 6. Adjustment of the headers and column order
 
-![]([PowerQuerySS.png)
+![](PowerQuerySS.png)
+---
